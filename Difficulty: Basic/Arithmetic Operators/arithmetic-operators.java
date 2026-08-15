@@ -13,9 +13,9 @@ class GFG {
         
         int t = x/y;
         int u = x%y;
-        double b = x;
         
-        double s = b/y;
+        
+        double s = (double)x/y;
         
         
 
